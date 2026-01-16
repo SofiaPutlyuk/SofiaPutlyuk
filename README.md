@@ -61,9 +61,8 @@
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react" />
 </p>
 <p align="center">→ Cross-platform mobile application focused on speed and usability</p>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=50" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=50&section=footer&animation=shine" />
 </p>
 <h3 align="center">📚 Currently Learning & Exploring</h3>
 
