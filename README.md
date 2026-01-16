@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend+%26+Mobile+Developer;React+%7C+TypeScript+%7C+Angular;React+Native+%7C+Expo;UI+%2F+UX+Focused;Always+moving+forward&center=true&width=700" />
 </p>
 <h1 align="center">Hi 👋, I'm Sophia Putlyuk </h1>
 <h3 align="center">Frontend & Mobile Developer</h3>
