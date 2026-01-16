@@ -84,9 +84,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&text=&animation=twilight" />
 </p>
 <h3 align="center">🔮 Upcoming Innovative Projects (2026)</h3>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36D1DC&width=600&lines=%F0%9F%92%A6+Banking+System;%F0%9F%93%96+Study+Space+%28Mobile+App%29;%F0%9F%8E%AE+AI+Assets+Game" />
 </p>
+
 <p align="center">
   🏦 <b>Banking System</b><br/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
@@ -95,9 +97,11 @@
   <br/>
   → Secure and modern financial interface
 </p>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=F7971E,F1A94E&height=8&width=700" />
+  <img src="https://capsule-render.vercel.app/api?type=curve&color=36D1DC,5B86E5&height=12&width=800&animation=twilight" />
 </p>
+
 <p align="center">
   📖 <b>Study Space (Mobile App)</b><br/>
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo" />
@@ -105,18 +109,22 @@
   <br/>
   → Mobile app for learning foreign languages
 </p>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=36D1DC,FF4B2B&height=8&width=700" />
+  <img src="https://capsule-render.vercel.app/api?type=curve&color=36D1DC,5B86E5&height=12&width=800&animation=twilight" />
 </p>
+
 <p align="center">
   🎮 <b>AI Assets Game</b> <i>(planned: April – May 2026)</i><br/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <br/>
   → AI-powered graphics generator for game assets
 </p>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=7928CA,5B86E5&height=8&width=700" />
+  <img src="https://capsule-render.vercel.app/api?type=curve&color=36D1DC,5B86E5&height=12&width=800&animation=twilight" />
 </p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </p>
