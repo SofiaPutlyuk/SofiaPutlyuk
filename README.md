@@ -62,7 +62,7 @@
 </p>
 <p align="center">→ Cross-platform mobile application focused on speed and usability</p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=twist&color=gradient&height=50&section=footer&animation=twilight" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=8&width=800" />
 </p>
 <h3 align="center">📚 Currently Learning & Exploring</h3>
 
