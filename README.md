@@ -99,7 +99,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F7971E,F1A94E&height=60&animation=twilight" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=F7971E,F1A94E&height=20&width=800" />
 </p>
 
 <p align="center">
