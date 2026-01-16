@@ -99,7 +99,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&height=300&color=FF4B2B" />
+  <img src="https://capsule-render.vercel.app/api?type=shark&height=100&color=0:FF4B2B,100:7928CA" />
 </p>
 
 <p align="center">
