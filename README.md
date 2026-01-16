@@ -38,6 +38,55 @@
 <p align="center">
   🌟 Always learning. Always improving. Always moving forward.
 </p>
+<h3 align="center">🛠️ Currently Working On</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=📚+Books+Reading+Platform;🚀+Shipping+Mobile+App&center=true&width=600&size=25" />
+</p>
+
+<p align="center">
+  <b>📚 Books Reading Platform</b><br/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+<p align="center">→ Fullstack platform for reading, managing, and exploring books</p>
+
+<p align="center">
+  <b>📱 Shipping Mobile App</b><br/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react" />
+</p>
+<p align="center">→ Cross-platform mobile application focused on speed and usability</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=50" />
+</p>
+<h3 align="center">📚 Currently Learning & Exploring</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Angular;Vue;Dart&center=true&width=600&size=25" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+</p>
+
+<p align="center">
+  🚀 Expanding my skills in <b>modern frameworks and mobile technologies</b> to create <b>innovative apps</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=50" />
+</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </p>
