@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sophia Putlyuk </h1>
+<h3 align="center">Frontend & Mobile Developer</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
 
-<!--
-**SofiaPutlyuk/SofiaPutlyuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular" />
+  <img src="https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vue.js" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://img.shields.io/badge/UI%20%2F%20UX-Figma-purple?style=for-the-badge&logo=figma" />
+</p>
