@@ -26,6 +26,11 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&text=👩‍💻%20ABOUT%20ME&fontSize=35&color=gradient&height=120" />
 </p>
+<p align="center" style="font-size:16px;">
+  ✨ <b>Frontend & Mobile Developer</b> | <i>3+ years of exploring modern technologies</i><br/>
+  💪 Passionate about <b>growth, continuous learning</b> and a mindset of <b>never stopping</b>.<br/>
+  🚀 Building <b>innovative, scalable</b> & <b>user-focused</b> products every day.
+</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </p>
