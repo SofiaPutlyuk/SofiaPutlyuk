@@ -31,6 +31,13 @@
   💪 Passionate about <b>growth, continuous learning</b> and a mindset of <b>never stopping</b>.<br/>
   🚀 Building <b>innovative, scalable</b> & <b>user-focused</b> products every day.
 </p>
+<p align="center" style="font-size:15px;">
+  💡 My journey is about <i>pushing boundaries</i> — experimenting with <b>cutting-edge tech</b> and <b>creating impact</b>.
+</p>
+
+<p align="center">
+  🌟 Always learning. Always improving. Always moving forward.
+</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </p>
