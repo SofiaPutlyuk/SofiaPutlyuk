@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+</p>
 <h1 align="center">Hi 👋, I'm Sophia Putlyuk </h1>
 <h3 align="center">Frontend & Mobile Developer</h3>
 <p align="center">
@@ -20,3 +23,4 @@
 <p align="center">
   <img src="https://img.shields.io/badge/UI%20%2F%20UX-Figma-purple?style=for-the-badge&logo=figma" />
 </p>
+
