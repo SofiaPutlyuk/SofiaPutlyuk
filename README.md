@@ -39,11 +39,9 @@
   🌟 Always learning. Always improving. Always moving forward.
 </p>
 <h3 align="center">🛠️ Currently Working On</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=📚+Books+Reading+Platform;🚀+Shipping+Mobile+App&center=true&width=600&size=25" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7DF1E&width=600&lines=%F0%9F%93%9A+Books+Reading+Platform;%F0%9F%9A%80+Shipping+Mobile+App" />
 </p>
-
 <p align="center">
   <b>📚 Books Reading Platform</b><br/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
