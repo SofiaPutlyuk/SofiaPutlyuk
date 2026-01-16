@@ -23,4 +23,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/UI%20%2F%20UX-Figma-purple?style=for-the-badge&logo=figma" />
 </p>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+</p>
