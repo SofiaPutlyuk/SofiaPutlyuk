@@ -111,7 +111,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=36D1DC,5B86E5&height=60&animation=twilight" />
+  <img src="https://capsule-render.vercel.app/api?type=shark&height=100&color=0:36D1DC,100:F7971E" />
 </p>
 
 <p align="center">
@@ -122,7 +122,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=36D1DC,5B86E5&height=60&animation=twilight" />
+  <img src="https://capsule-render.vercel.app/api?type=shark&height=100&color=0:F7971E,100:5B86E5" />
 </p>
 
 <p align="center">
