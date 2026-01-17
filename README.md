@@ -126,13 +126,10 @@
 </p>
 <h3 align="center">📊 GitHub Stats</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SofiaPutlyuk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-</p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=7928CA,FF4B2B&height=18&width=600" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SofiaPutlyuk&show_icons=true&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=SofiaPutlyuk&theme=tokyonight&hide_border=true)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=SofiaPutlyuk&theme=tokyonight&hide_border=true&background=00000000" />
