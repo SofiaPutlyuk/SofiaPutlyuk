@@ -124,6 +124,19 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=shark&height=100&color=0:F7971E,100:5B86E5" />
 </p>
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SofiaPutlyuk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=7928CA,FF4B2B&height=18&width=600" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SofiaPutlyuk&theme=tokyonight&hide_border=true&background=00000000" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
