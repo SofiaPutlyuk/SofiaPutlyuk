@@ -127,13 +127,7 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SofiaPutlyuk&show_icons=true&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SofiaPutlyuk&theme=tokyonight&hide_border=true)
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SofiaPutlyuk&theme=tokyonight&hide_border=true&background=00000000" />
-</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </p>
