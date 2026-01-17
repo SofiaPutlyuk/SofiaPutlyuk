@@ -127,7 +127,7 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://pixel-profile.vercel.app/api/github-stats?username=SofiaPutlyuk&theme=road_trip&pixelate_avatar=false" alt="Pixel GitHub Stats" />
+  <img src="https://pixel-profile.vercel.app/api/github-stats?username=SofiaPutlyuk&theme=road_trip&pixelate_avatar=true" alt="Pixel GitHub Stats" />
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
