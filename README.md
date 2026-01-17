@@ -126,7 +126,10 @@
 </p>
 <h3 align="center">📊 GitHub Stats</h3>
 
-
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=SofiaPutlyuk&show_icons=true&theme=radical"
+  alt="Sofia Putlyuk GitHub stats"
+/>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
