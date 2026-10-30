@@ -61,65 +61,6 @@
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react" />
 </p>
 <p align="center">→ Cross-platform mobile application focused on speed and usability</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=36D1DC,5B86E5&height=60&animation=twilight" />
-</p>
-<h3 align="center">📚 Currently Learning & Exploring</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Angular;Vue;Dart&center=true&width=600&size=25" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-</p>
-
-<p align="center">
-  🚀 Expanding my skills in <b>modern frameworks and mobile technologies</b> to create <b>innovative apps</b>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&text=&animation=twilight" />
-</p>
-<h3 align="center">🔮 Upcoming Innovative Projects (2026)</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36D1DC&width=600&lines=%F0%9F%92%A6+Banking+System;%F0%9F%93%96+Study+Space+%28Mobile+App%29;%F0%9F%8E%AE+AI+Assets+Game" />
-</p>
-
-<p align="center">
-  🏦 <b>Banking System</b><br/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <br/>
-  → Secure and modern financial interface
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&height=100&color=0:FF4B2B,100:7928CA" />
-</p>
-
-<p align="center">
-  📖 <b>Study Space (Mobile App)</b><br/>
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo" />
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react" />
-  <br/>
-  → Mobile app for learning foreign languages
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&height=100&color=0:36D1DC,100:F7971E" />
-</p>
-
-<p align="center">
-  🎮 <b>AI Assets Game</b> <i>(planned: April – May 2026)</i><br/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <br/>
-  → AI-powered graphics generator for game assets
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=shark&height=100&color=0:F7971E,100:5B86E5" />
